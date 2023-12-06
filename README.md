@@ -33,6 +33,6 @@ filled with the pre-selected color. If not check, it lets the shapes to be drawn
 8. Undo Button: It lets the user undo the previous action(s)
 
 # To Run
-Download PaintBrush.java and PaintBrush.html
-Compile using javac PaintBrush.java
-Run using appletviewer PaintBrush.html
+1. Download PaintBrush.java and PaintBrush.html
+2. Compile using javac PaintBrush.java
+3. Run using appletviewer PaintBrush.html
